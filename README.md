@@ -1,16 +1,26 @@
-# curency_exchange_rate
 
-A new Flutter project.
+# Currency Exchange Rate
 
-## Getting Started
+This project is build for learning dart with flutter framework
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Material Design
+- Fetch data form API
+
+
+## Roadmap
+
+- Add pull to refresh
+
+- Add alert to each currency
+
+
+## 🛠 Skills
+- Open api
+- Dart
+- Flutter
+- State Management
+
