@@ -1,7 +1,8 @@
 # curency_exchange_rate
 
 A new Flutter project.
-
+API :
+https://v6.exchangerate-api.com/v6/23e4b05d04af4ecc460228f8/latest/USD
 ## Getting Started
 
 This project is a starting point for a Flutter application.
