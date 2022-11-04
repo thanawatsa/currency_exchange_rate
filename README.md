@@ -24,19 +24,3 @@ This project is build for learning dart with flutter framework
 - Flutter
 - State Management
 
-
-## Appendix
-
-Any additional information goes here
-
-
-## API Reference
-
-#### Get items
-
-```http
-  https://v6.exchangerate-api.com/v6/23e4b05d04af4ecc460228f8/latest/USD
-```
-
-
-
