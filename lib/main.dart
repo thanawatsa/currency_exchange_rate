@@ -68,15 +68,15 @@ class _MyHomePageState extends State<MyHomePage> {
                 padding: const EdgeInsets.all(8.0),
                 child: Column(
                   children: [
-                    moneyBox("USD", 1 , Colors.lightBlue, 135),
+                    moneyBox("BASE CURRENCY: USD", 1 , Colors.lightBlue, 135),
                     SizedBox(height: 10,),
-                    moneyBox("AED", result.conversionRates["AED"], Colors.redAccent, 125),
+                    moneyBox("EUR", result.conversionRates["EUR"], Colors.redAccent, 125),
                     SizedBox(height: 10,),
-                    moneyBox("AFN", result.conversionRates["AFN"], Colors.greenAccent, 125),
+                    moneyBox("JPY", result.conversionRates["JPY"], Colors.greenAccent, 125),
                     SizedBox(height: 10,),
-                    moneyBox("ALL", result.conversionRates["ALL"], Colors.orangeAccent, 125),
+                    moneyBox("CAD", result.conversionRates["CAD"], Colors.orangeAccent, 125),
                     SizedBox(height: 10,),
-                    moneyBox("AMD", result.conversionRates["AMD"], Colors.blueAccent, 125),
+                    moneyBox("GBP", result.conversionRates["GBP"], Colors.blueAccent, 125),
 
                   ],
                 ),
